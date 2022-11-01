@@ -12,7 +12,7 @@ module.exports = {
           light: "#232F3E",
           DEFAULT: "#131921",
         },
-      },
+      }, 
     },
   },
   variants: {
