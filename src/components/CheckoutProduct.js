@@ -70,4 +70,4 @@ const CheckoutProduct = ({id,
   )
 }
 
-export default CheckoutProduct
+export default CheckoutProduct  
